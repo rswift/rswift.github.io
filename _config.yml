@@ -1,0 +1,7 @@
+title: Yet Another Homepage
+description: Most likely a collection of things that are maybe, possibly, useful, or possibly not... ¯\_(ツ)_/¯
+
+remote_theme: pages-themes/cayman@v0.2.0
+show_downloads: false
+plugins:
+- jekyll-remote-theme
